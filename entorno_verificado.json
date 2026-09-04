@@ -1,7 +1,7 @@
 {
   "modulo": "Aprendizaje por Refuerzo y Sistemas de Recomendacion",
   "prueba": "Bloque 0 / N1",
-  "fecha": "2026-09-04T17:27:33+00:00",
+  "fecha": "2026-09-04T17:40:35+00:00",
   "sistema": "Windows 11 (AMD64)",
   "python": "3.12.14",
   "superadas": 8,
@@ -42,7 +42,7 @@
       "n": 6,
       "titulo": "Las pruebas automaticas pasan",
       "ok": true,
-      "detalle": "..........................                                               [100%]"
+      "detalle": "-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html"
     },
     {
       "n": 7,
@@ -54,7 +54,7 @@
       "n": 8,
       "titulo": "El repositorio esta clonado y con remoto",
       "ok": true,
-      "detalle": "rama 'main' · 1 commits · remoto https://github.com/Anyelorodriguez/rl-recsys-Anyelorodriguez"
+      "detalle": "rama 'main' · 2 commits · remoto https://github.com/Anyelorodriguez/rl-recsys-Anyelorodriguez"
     }
   ]
 }
