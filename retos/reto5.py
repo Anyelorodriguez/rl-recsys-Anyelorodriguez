@@ -36,6 +36,11 @@ Dos cosas, y la primera se entrega aunque la segunda no salga.
    que se queda clavada. Que le pasa al brazo elegido a medida que se tira de
    el. Y una prediccion: cuanto crees que va a ganar tu arreglo.
 
+   Al no tener exploración ($\epsilon=0$), en cuanto encuentra un brazo que le 
+   da un primer acierto, asigna a ese brazo una media estimada de $1.0$ y a los
+    demás no probados una media de $0.0$. Por ende, sobreestima ese único brazo
+      e ignora completamente los otros 19 brazos.
+
 2. **El arreglo.** Rellena ``mi_politica`` con una politica de bandido que
    reparta mejor las tiradas. Tienes ``epsilon_avida``, ``ucb1``, ``thompson``
    y ``linucb`` en ``rlrs.bandidos``, y puedes escribir la tuya desde cero si
