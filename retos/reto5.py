@@ -86,4 +86,4 @@ def mi_politica(bandido, rondas: int, seed: int) -> Corrida:
         Lo que devuelven las politicas de ``rlrs.bandidos``.
     """
     # ── su respuesta va aqui ──────────────────────────────────────────────
-    return epsilon_avida(bandido, rondas, epsilon=0.0, seed=seed)
+    return ucb1(bandido, rondas, epsilon=0.0, seed=seed)
