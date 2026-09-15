@@ -1,4 +1,8 @@
-"""Bandidos, medidos.
+"""
+prueba branch
+
+
+Bandidos, medidos.
 
     uv run python experiments/bandidos.py              las cuatro partes
     uv run python experiments/bandidos.py --parte 2    solo una

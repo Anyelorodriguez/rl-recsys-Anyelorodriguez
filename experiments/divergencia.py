@@ -1,5 +1,9 @@
 #!/usr/bin/env python
-"""Que pasa cuando se quita el descuento. Sesion 1, el error plantado.
+"""
+prueba branch
+
+
+Que pasa cuando se quita el descuento. Sesion 1, el error plantado.
 
     uv run python experiments/divergencia.py
 
