@@ -6,7 +6,7 @@
 Recorre los tres intentos de la guia, en orden:
 
   1. `value_iteration(env, gamma=1.0)`  ->  el codigo se niega.
-  2. El mismo bucle escrito a mano, gamma = 1, entorno por defecto  ->  converge.
+  2. el mismo bucle escrito a mano, gamma = 1, entorno por defecto  ->  converge.
      Perder la garantia no es lo mismo que perder la convergencia.
   3. Igual, pero pagando +0.01 por paso en vez de cobrarlo  ->  no converge.
      Los valores crecen +0.01 por barrido, para siempre.

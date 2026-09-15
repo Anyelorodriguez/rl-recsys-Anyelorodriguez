@@ -12,7 +12,7 @@ Cuatro partes:
   3. La constante de UCB. Que pasa cuando se usa la del teorema.
   4. Meridiano como bandido. Donde la aproximacion se rompe, y por que.
 
-Todos los numeros de la guia del viernes salen de aqui. Si algo no coincide,
+Todos los numeros de la guia del vierne salen de aqui. Si algo no coincide,
 manda la salida entera al foro: puede ser un error del material.
 """
 
