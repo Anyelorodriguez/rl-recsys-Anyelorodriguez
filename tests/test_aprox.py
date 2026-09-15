@@ -1,4 +1,8 @@
-"""Pruebas de la aproximacion lineal y de la triada mortal.
+"""
+prueba branch
+
+
+Pruebas de la aproximacion lineal y de la triada mortal.
 
 Hay dos que valen mas que las otras. Una comprueba que la tabla de siempre es un
 caso particular de la aproximacion lineal, porque si eso no se cumple todo lo
